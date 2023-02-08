@@ -1,0 +1,27 @@
+{
+  "name": "nft-market-place",
+  "version": "1.0.0",
+  "description": "Buyer and seller market place for NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohibhan/NFT-Market-Place.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohibhan/NFT-Market-Place/issues"
+  },
+  "homepage": "https://github.com/rohibhan/NFT-Market-Place#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}
